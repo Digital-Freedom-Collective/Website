@@ -1,3 +1,22 @@
+Copyright (c) 2026 Digital Freedom Collective
+
+This software is licensed under the AGPLv3.
+
+The full text of the AGPLv3 follows below.
+
+Additional Transparency Requirements:
+
+1. All deployments of this software must include in the source and the user-facing interface clear disclosure of:
+   - Telemetry, analytics, or tracking code
+   - Ads, promotions, or sponsored content
+   - Ranking, recommendation, or personalization logic
+
+2. Any modifications that materially affect user experience or output must be reproducible from the distributed source code.
+
+3. Any collection of user data must be fully documented in the source and user interface, and accompanied by a human-readable TL;DR summary of the privacy policy in plain language.
+
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
